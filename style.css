@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+
+.description{
+    font-size: 16px;
+}
+
+.div1{
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    border-radius: 20px;
+    width: 700px;
+    height: 1400px;
+    margin: 0 auto;
+}
+
+.image-redonda{
+    border-radius: 20px;
+}
+
+.preparation{
+    background-color: rgba(188, 221, 217, 0.295);
+    border-radius: 10px;
+    height: 130px;
+}
+
+.title-prep{
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+    height: 5px;
+}
+
+.ingredients{
+    font-size: 20px;
+}
+
+.linha{
+    height: 0,1px;
+    background-color: rgb(176, 231, 224);
+    width: 100%; /* Define a largura da linha */
+    margin: 10px 0;
+}
